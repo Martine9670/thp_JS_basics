@@ -1,7 +1,5 @@
 # JavaScript Basics - THP Exercises
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-
 Welcome to my **JavaScript basics project**, a series of exercises designed to practice fundamental concepts of JavaScript. This project was done as part of **The Hacking Project (THP)**.
 
 ---
