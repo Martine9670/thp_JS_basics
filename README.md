@@ -1,4 +1,4 @@
-# JavaScript Basics - THP Exercises
+# 🎯 JavaScript Basics - THP Exercises
 
 Welcome to my **JavaScript basics project**, a series of exercises designed to practice fundamental concepts of JavaScript. This project was done as part of **The Hacking Project (THP)**.
 
@@ -12,13 +12,13 @@ You will find **7 exercises**, each implemented in its own script file:
 
 | Exercise | Description |
 |----------|-------------|
-| `script_1.js` | Hello World and personalized greeting using `prompt()` |
-| `script_2.js` | Factorial calculation using loops |
-| `script_3.js` | Build a right-aligned Mario-style pyramid |
-| `script_4.js` | Filter, map, and sort an array of entrepreneurs |
-| `script_5.js` | Analyze a library of books (filter, find, sort) |
-| `script_6.js` | Simplified genetic code translator (ARN → amino acids) |
-| `script_7.js` | Acne-bot chatbot responding to user input |
+| `script_1.js` | 👋 Hello World + personalized greeting using `prompt()` |
+| `script_2.js` | 🧮 Factorial calculation using loops |
+| `script_3.js` | 🏰 Mario-style pyramid, right-aligned |
+| `script_4.js` | 📊 Entrepreneurs: filter, map, sort |
+| `script_5.js` | 📚 Library books analysis: find, filter, sort |
+| `script_6.js` | 🧬 Simplified genetic code translator (ARN → amino acids) |
+| `script_7.js` | 🤖 Acne-bot: chatbot responding to user messages |
 
 ---
 
